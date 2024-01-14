@@ -8,3 +8,7 @@
     color: wheat;
     padding: 20px;
 }
+.container p{
+    margin: 10px 0px;
+    background-color: red;
+}
