@@ -1,0 +1,10 @@
+.container{
+    width: 100%;
+    text-align: center;
+}
+.container h1{
+    height: 30px;
+    background-color: grey;
+    color: wheat;
+    padding: 20px;
+}
